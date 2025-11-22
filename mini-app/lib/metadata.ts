@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Scribble Mint";
+export const description = "A Doodle-to-Wallet Mini App";
 export const url = process.env.NEXT_PUBLIC_URL;
